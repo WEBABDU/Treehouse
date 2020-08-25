@@ -1,0 +1,112 @@
+@media(max-width:1201px){
+    .latest_ip {
+      background: none;
+    }
+    
+    
+    .text-box h3 {
+        text-align: center;
+    }
+    .text-box p {
+        text-align: center;
+    }
+    
+    .pos_ab {
+        display: none;
+    }
+    .pos_ab2 {
+        display: none;
+    }
+    
+}
+
+@media(max-width:992px){
+    .creative > h1{
+        font-size: 50px;
+    }
+
+    /* ============================================ */
+    .Just_relax {
+        width: 100%;
+    }
+    .setting {
+        display: none;
+    }
+
+    /* .Just_relax > h2 {
+        font-size: 25px;
+    } */
+    /* ================================================ */
+    .kim {
+        flex-direction: column-reverse;
+    }
+    
+    .circle {
+        margin: auto;
+        margin-bottom: 20px;
+    }
+    .circle2 {
+        margin: auto;
+        margin-bottom: 20px;
+
+    }
+    .p_p_gray img {
+        display: none;
+    }
+    .kim img {
+        display: none;
+    }
+    /* ===================================================== */
+    .ready h2 {
+        font-size: 30px;
+    }
+
+}
+
+@media(max-width:768px){
+    .Just_relax > h2 {
+        font-size: 25px;
+    }
+    /* ========================================================== */
+
+    .ready h2 {
+        font-size: 20px;
+    }
+    /* =============================================================== */
+    
+    .contact{
+        margin-bottom: 30px;
+    }
+    /* ========================================================= */
+    footer p {
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    footer > div > div > div {
+        justify-content: center;
+    }
+    footer > div > div{
+        flex-direction: column-reverse;
+    }
+
+}
+
+@media(max-width:576px) {
+    .creative > h1{
+        font-size: 40px;
+    }
+    /* =========================================================== */
+
+    .Just_relax > h2 {
+        font-size: 20px;
+    }
+
+    /* .Just_relax>p {
+        font-size: 13px;
+    }
+
+    .Just_relax li {
+        font-size: 13px;
+    } */
+}

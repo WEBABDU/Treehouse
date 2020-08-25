@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'Montserrat';
+
+    src: url('montserrat_regular.eot') format('eot'),
+        url('montserrat_regular.woff2') format('woff2'),
+        url('montserrat_regular.woff') format('woff'),
+        url('montserrat_regular.ttf') format('ttf'),
+        url('montserrat_regular.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'Montserrat';
+
+    src: url('montserrat_bold.eot') format('eot'),
+        url('montserrat_bold.woff2') format('woff2'),
+        url('montserrat_bold.woff') format('woff'),
+        url('montserrat_bold.ttf') format('ttf'),
+        url('montserrat_bold.svg') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto Slab';
+    src:url('robotoslab_regular.eot') format('eot'),
+        url('robotoslab_regular.woff2') format('woff2'),
+        url('robotoslab_regular.woff') format('woff'),
+        url('robotoslab_regular.ttf') format('ttf'),
+        url('robotoslab_regular.svg') format('svg');
+      
+    font-weight: normal;
+    font-style: normal;
+}
